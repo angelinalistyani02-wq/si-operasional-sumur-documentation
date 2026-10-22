@@ -1,51 +1,52 @@
-# Sistem Operasional Kontrol Sumur
+# Well Operational Control System
 
-## Gambaran Umum 
+## Overview
 
-Sistem Operasional Kontrol Sumur merupakan solusi berbasis web yang dirancang untuk mengelola data operasional sumur secara terpusat.
+The Well Operational Control System is a web-based solution designed to manage well operational data in a centralized manner.
 
-Sistem ini dikembangkan berdasarkan studi kasus dari proses operasional yang sebelumnya masih dilakukan secara manual, sehingga data tidak terstruktur, rentan terhadap kesalahan pencatatan, serta menyulitkan proses monitoring dan pelaporan.
+This system was developed based on a case study of operational processes that were previously performed manually. As a result, data was unstructured, prone to recording errors, and difficult to monitor and report.
 
-Melalui sistem ini, pengelolaan data menjadi lebih terstruktur, akurat, dan mudah diakses, sehingga dapat meningkatkan efisiensi operasional serta mendukung pengambilan keputusan yang lebih efektif.
+Through this system, data management becomes more structured, accurate, and accessible, helping improve operational efficiency and supporting more effective decision-making.
 
-Sistem ini digunakan oleh admin operasional dan supervisor untuk melakukan input data, monitoring aktivitas, serta penyusunan laporan operasional.
+The system is used by operational administrators and supervisors to enter data, monitor activities, and prepare operational reports.
 
-## Peran dan Fokus
+## Role and Focus
 
-Dalam proyek ini, saya berperan dalam:
+In this project, I was responsible for:
 
-- Menganalisis proses operasional yang berjalan
-- Mengidentifikasi permasalahan pada sistem manual
-- Mendesain alur sistem (workflow)
-- Menyusun struktur data dan relasi database
-- Menyusun dokumentasi sistem secara terstruktur dan mudah dipahami
+- Analyzing existing operational processes
+- Identifying issues in the manual system
+- Designing system workflows
+- Structuring data and defining database relationships
+- Preparing structured and easy-to-understand system documentation
 
-## Struktur Dokumentasi 
+## Documentation Structure
 
-Dokumentasi dalam repositori ini [docs](./docs/) meliputi  :
-* Gambaran Umum Bisnis
-* Analisis Permasalahan
-* Perancangan Sistem 
-* Alur Kerja Sistem
-* Struktur Data
-* Use Case
-* Kesimpulan
+The documentation in this repository's [docs](./docs/) directory includes:
 
-## Hasil yang Dicapai 
+- Business Overview
+- Problem Analysis
+- System Design
+- System Workflow
+- Data Structure
+- Use Cases
+- Conclusion
 
-* Proses pencatatan data menjadi lebih terstruktur
-* Risiko kesalahan pencatatan dapat diminimalisir
-* Data lebih mudah diakses untuk monitoring
-* Mendukung proses pelaporan serta pengambilan keputusan operasional yang lebih efektif
-  
-## Keterampilan yang Ditunjukkan 
+## Outcomes
 
-* Analisis Sistem 
-* Pemahaman Proses Bisnis
-* Pengelolaan Data
-* Penulisan Dokumentasi
-* Berpikir Analitis
+- Data recording processes are more structured
+- The risk of recording errors can be minimized
+- Data is more accessible for monitoring
+- Supports operational reporting and more effective decision-making
 
-## Catatan
+## Demonstrated Skills
 
-Proyek ini merupakan dokumentasi berbasis studi kasus dari pengalaman magang dan tidak mencakup data sensitif perusahaan.
+- System Analysis
+- Business Process Understanding
+- Data Management
+- Technical Documentation Writing
+- Analytical Thinking
+
+## Note
+
+This project is case-study-based documentation derived from an internship experience and does not include sensitive company data.
