@@ -1,19 +1,18 @@
-# Kesimpulan  
+# Conclusion
 
-Berdasarkan hasil analisis dan perancangan sistem Operasional Kontrol Sumur, dapat disimpulkan bahwa implementasi sistem ini
-mampu menggantikan proses pencatatan manual menjadi sistem terkomputerisasi.
+Based on the analysis and design of the Well Operational Control System, it can be concluded that implementing this system can replace manual record-keeping processes with a computerized system.
 
-Sistem ini memberikan beberapa peningkatan, di antaranya:
-* Mempermudah proses input dan pengelolaan data operasional sumur
-* Mengurangi kesalahan dalam perhitungan debit dan jumlah air
-* Mempermudah proses monitoring dan rekapitulasi data
-* Menghasilkan laporan yang lebih cepat dan terstruktur
+The system provides several improvements, including:
+- Simplifying the entry and management of well operational data
+- Reducing errors in calculating water flow rates and water volumes
+- Facilitating data monitoring and compilation
+- Producing reports more quickly and in a more structured format
 
-Dengan adanya sistem ini, proses operasional menjadi lebih efisien dan data yang dihasilkan lebih akurat sehingga dapat mendukung pengambilan keputusan oleh pihak manajemen. 
+With this system, operational processes become more efficient, and the resulting data becomes more accurate, thereby supporting management decision-making.
 
-**Pengembangan Selanjutnya**
+**Future Development**
 
-Pengembangan sistem ke depan dapat mencakup:
-* Penambahan fitur visualisasi data (dashboard grafik yang lebih interaktif)
-* Integrasi dengan sistem lain dalam perusahaan
-* Pengembangan sistem berbasis real-time monitoring
+Future system development may include:
+- Adding data visualization features, such as a more interactive graphical dashboard
+- Integrating the system with other company systems
+- Developing real-time monitoring capabilities
