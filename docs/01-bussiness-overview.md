@@ -1,14 +1,11 @@
-# Gambaran Umum Bisnis
+# Business Overview
 
-PT. Kimia Farma Plant Watudakon merupakan perusahaan yang bergerak di bidang farmasi, khususnya dalam produksi yodium
-untuk bahan baku obat.
+PT. Kimia Farma Plant Watudakon is a company operating in the pharmaceutical industry, specifically in the production of iodine as a raw material for medicines.
 
-Proses produksi dilakukan dengan memanfaatkan sumber air dari beberapa sumur yodium yang dimiliki perusahaan. Setiap sumur menghasilkan data operasional penting, seperti debit air, kadar yodium, dan jumlah produksi yang perlu dicatat secara berkala.
+The production process utilizes water resources from several iodine wells owned by the company. Each well generates important operational data, such as water flow rate, iodine concentration, and production volume, which need to be recorded periodically.
 
-Data operasional tersebut digunakan sebagai dasar monitoring kegiatan
-serta pelaporan kepada pihak manajemen.
+This operational data is used as a basis for activity monitoring and reporting to management.
 
-Oleh karena itu, pengelolaan data operasional sumur yang terstruktur dan akurat menjadi bagian penting dalam mendukung kelancaran proses produksi, meningkatkan akurasi data, serta membantu pengambilan keputusan yang lebih efektif.
+Therefore, structured and accurate management of well operational data is important for supporting smooth production processes, improving data accuracy, and facilitating more effective decision-making.
 
-Sistem ini digunakan oleh admin operasional dan supervisor untuk memantau aktivitas serta memastikan data operasional tercatat dengan baik.
-
+The system is used by operational administrators and supervisors to monitor activities and ensure that operational data is properly recorded.
