@@ -1,18 +1,20 @@
-# Analisis Permasalahan 
+# Problem Analysis
 
-## Kondisi Saat Ini 
-Proses pendataan dan rekapitulasi data operasional masih dilakukan 
-secara manual oleh pihak manajemen kontrol sumur.
+## Current Conditions
 
-## Permasalahan
-- Data tidak tersusun secara terstruktur dan terpusat
-- Rentan terjadi kesalahan dalam pencatatan dan perhitungan debit serta jumlah air 
-- Terdapat resiko kehilangan atau kerusakan data (data corrupt)
-- Data sulit ditelusuri kembali saat dibutuhkan 
+The process of collecting and compiling operational data is still carried out manually by the well control management team.
 
-## Dampak 
-- Akurasi data rendah
-- Proses monitoring operasional tidak berjalan optimal
-- Pengambilan keputusan menjadi kurang efektif
-- Efisiensi kerja menurun akibat proses yang tidak terotomatisasi
-- Keterlambatan dalam pengambilan keputusan serta meningkatnya risiko kesalahan dalam pengelolaan data operasional
+## Problems
+
+- Data is not organized in a structured and centralized manner
+- Recording and calculation errors may occur when recording water flow rates and water volumes
+- There is a risk of data loss or damage (data corruption)
+- Data is difficult to retrieve when needed
+
+## Impacts
+
+- Low data accuracy
+- Operational monitoring processes are not functioning optimally
+- Decision-making becomes less effective
+- Work efficiency decreases due to the lack of automation
+- Delays in decision-making and an increased risk of errors in operational data management
