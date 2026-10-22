@@ -1,23 +1,23 @@
-# Alur Kerja Sistem 
-1. Admin Operasional melakukan input data operasional sumur melalui sistem.
-2. Sistem melakukan validasi terhadap data yang dimasukkan, seperti kelengkapan dan format data.
-3. Jika data tidak valid atau tidak lengkap, sistem akan menampilkan pesan kesalahan dan meminta
-   pengguna untuk melakukan perbaikan.
-4. Jika data valid, sistem akan menyimpan data ke dalam database secara terpusat.
-5. Data yang telah tersimpan dapat diakses oleh Admin Operasional dan Kepala Bagian untuk keperluan monitoring.
-6. Sistem mengolah data yang tersedia untuk menghasilkan laporan operasional.
-7. Laporan yang dihasilkan digunakan sebagai dasar dalam pengambilan keputusan operasional.
+# System Workflow
 
-## Flowchart Sistem
+1. The Operational Administrator enters well operational data through the system.
+2. The system validates the entered data, including data completeness and format.
+3. If the data is invalid or incomplete, the system displays an error message and asks the user to make corrections.
+4. If the data is valid, the system stores it in a centralized database.
+5. The stored data can be accessed by the Operational Administrator and Department Head for monitoring purposes.
+6. The system processes the available data to generate operational reports.
+7. The generated reports are used as a basis for operational decision-making.
+
+## System Flowchart
 
 <p align="center">
   <img src="./diagrams/Flowchart.drawio.png" width="500"/>
   <br>
-  <em>Gambar Flowchart Sistem Operasional Kontrol Sumur</em>
+  <em>Well Operational Control System Flowchart</em>
 </p>
 
-Flowchart ini menggambarkan alur sistem operasional kontrol sumur mulai dari proses input data oleh pengguna hingga menghasilkan laporan operasional.
+This flowchart illustrates the workflow of the Well Operational Control System, from user data entry to the generation of operational reports.
 
-Data yang dimasukkan akan melalui tahap validasi untuk memastikan kelengkapan dan konsistensi. Jika data tidak valid, pengguna akan melakukan perbaikan sebelum disimpan ke dalam database.
+The entered data undergoes validation to ensure completeness and consistency. If the data is invalid, the user must make corrections before it is stored in the database.
 
-Data yang telah tersimpan kemudian digunakan untuk monitoring operasional dan pembuatan laporan sebagai dasar evaluasi dan pengambilan keputusan.
+The stored data is then used for operational monitoring and report generation as a basis for evaluation and decision-making.
