@@ -1,19 +1,20 @@
-# Use Case
+# Use Cases
 
-## Aktor
-1. Admin Operasional 
-2. Kepala Bagian Sumur
+## Actors
 
+1. Operational Administrator
+2. Well Department Head
 
-## Admin Operasional 
-1. Menginput data operasional sumur
-2. Mengedit data operasional
-3. Menghapus data operasional
-4. Melihat data operasional
-5. Mencetak laporan operasional
+## Operational Administrator
 
+1. Enter well operational data
+2. Edit operational data
+3. Delete operational data
+4. View operational data
+5. Print operational reports
 
-## Kepala Bagian Sumur 
-1. Melihat data operasional
-2. Melihat laporan rekapitulasi
-3. Mencetak laporan 
+## Well Department Head
+
+1. View operational data
+2. View summary reports
+3. Print reports
