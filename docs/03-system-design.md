@@ -1,19 +1,21 @@
-# Perancangan Sistem 
+# System Design
 
-## Gambaran Sistem 
+## System Overview
 
-Sistem Operasional Kontrol Sumur merupakan sistem berbasis web yang digunakan untuk mengelola dan merekap data operasional sumur secara terpusat. Sistem ini digunakan oleh admin operasional untuk pengolahan data serta oleh kepala bagian untuk monitoring dan pelaporan.
+The Well Operational Control System is a web-based system used to centrally manage and compile well operational data. The system is used by operational administrators for data processing and by department heads for monitoring and reporting.
 
-Sistem dirancang untuk meningkatkan efektivitas, akurasi, dan keteraturan data, serta mempermudah proses monitoring dan pengambilan keputusan oleh manajemen.
+The system is designed to improve data effectiveness, accuracy, and organization, as well as facilitate monitoring and decision-making by management.
 
-## Komponen Sistem 
-1. Pengguna (Admin Operasional dan Kepala Bagian)
-2. Aplikasi Web (Sistem Operasional Sumur)
-3. Basis Data (penyimpanan data operasional sumur)
+## System Components
 
-## Alur Sistem 
-1. Admin Operasional melakukan input data operasional sumur
-2. Sistem memproses dan memvalidasi data yang dimasukkan
-3. Data disimpan dalam database secara terpusat
-4. Data digunakan untuk monitoring operasional oleh admin dan kepala bagian
-5. Sistem menghasilkan rekapitulasi data dalam bentuk laporan
+1. Users (Operational Administrators and Department Heads)
+2. Web Application (Well Operational Control System)
+3. Database (storage for well operational data)
+
+## System Workflow
+
+1. The Operational Administrator enters well operational data
+2. The system processes and validates the entered data
+3. Data is stored centrally in the database
+4. The data is used for operational monitoring by administrators and department heads
+5. The system generates data summaries in the form of reports
